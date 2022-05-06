@@ -1,0 +1,34 @@
+#pic{width:711px;
+height:533px;
+position:relative;
+background:url(1.jpg) no-repeat ;
+margin:auto;}
+#pic ul{margin:0;
+padding:0;
+list-style:none;
+}
+#pic a{position:absolute;
+width:100px;
+height:120px;
+text-indent:-1000em;
+}
+#pic .rich a:hover{border:1px solid #fff;
+background:url(2.jpg) no-repeat;}
+#pic .andy a:hover{border:1px solid #fff;
+background:url(3.jpg) no-repeat;}
+#pic .jeremy a:hover{border:1px solid #fff;
+background:url(4.jpg) no-repeat;}
+#pic .a a:hover{border:1px solid #fff;
+background:url(5.jpg) no-repeat;}
+#pic .b a:hover{border:1px solid #fff;
+background:url(6.jpg) no-repeat;}
+#pic .rich a{top:110px;
+left:45px;}
+#pic .andy a{top:120px;
+left:170px;}
+#pic .jeremy a{top:110px;
+left:320px;}
+#pic .a a{top:130px;
+left:425px;}
+#pic .b a{top:120px;
+left:520px;}

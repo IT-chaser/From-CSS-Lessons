@@ -1,0 +1,48 @@
+body
+{margin:10px 0px;
+background-color:#000099;
+font-family:Verdana,Thoma,Arial,sans-serif;
+font-size:12px;}
+#container
+{
+margin:auto;
+width:800px;
+}
+#header
+{height:100px;
+background-color:#ddffee;
+margin:0;}
+#header h1{
+font-size:30px;
+font-weight:100;
+letter-spacing:-3px;
+padding:20px 0 0 30px;
+margin:0;}
+#header h1 a {text-decoration:none;
+color:#333;}
+#header h2 {
+color:#08f;
+font-size:17px;
+font-weight:100;
+letter-spacing:-1px;
+padding: 0 0 0 30px;
+margin:0;}
+#post_container
+{height:700px;
+background-color:#aadbff;
+}
+.right{
+background-color:#ffffff;
+float:right;
+width:580;
+text-align:justify;
+padding: 0 10px 10px 10px;}
+.left{float:left;
+width:160px;
+padding:10px;}
+.clear{clear:both;}
+#footer
+{height:30px;
+text-align:center;
+background-color:#333333;
+}

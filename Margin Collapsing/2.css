@@ -1,0 +1,16 @@
+body{
+font:100%/1.6 Verdan,sans-serif;
+color:#353535;
+padding:1em;}
+.wrapper{
+width:420px;
+border:1px solid gray;
+margin:20px;}
+#box1 {margin:10px;
+background-color:#d5d6d6;}
+#box2 {margin:10px;
+background-color:#d5d6d6;
+padding:1px;
+}
+p{margin:20px;
+background-color:#90c2f3;}

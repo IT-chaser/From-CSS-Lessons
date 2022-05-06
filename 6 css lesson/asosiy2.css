@@ -1,0 +1,19 @@
+body{font:76%/1.8 "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+Background-color:#123;}
+ul{margin:0;
+padding:0;
+float:left;
+width:460px;
+list-style:none;
+background:#faa819 url(images/1.gif) repeat-x;
+text-transform:uppercase:}
+ul li{float:left;}
+ul a{padding:0 2em;
+line-height:2.1em;
+background: url(images/2.gif) repeat-y left top ;
+float:left;
+text-decoration:none;
+display:block;
+color:#fff;}
+ul a:hover{
+color:#000;}

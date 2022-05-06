@@ -1,0 +1,14 @@
+body{font:76%/1.8 "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+Background-color:#fff;}
+ul{float:left;
+width:760px;
+list-style:none;}
+ul li{float:left;}
+ul a{padding:0 2em;
+line-height:2.1em;
+float:left;
+text-decoration:none;
+display:block;
+color:#a33;}
+ul a:hover{text-decoration:underline;
+color:#00f;}

@@ -1,0 +1,20 @@
+body{font-family:verdana;
+font-size:1em;
+}
+ul{list-style:none;
+}
+li{margin:10px 0;}
+li a{display:block;
+width:300px;
+height:30px;
+line-height:30px;
+color:#000;
+text-decoration:none;
+background:#94b8e9 
+url(1.jpg) no-repeat left top;
+text-indent:10px;
+text-align:center;
+margin:auto;
+}
+li a:visited
+{background-position: right top;}
